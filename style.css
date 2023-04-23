@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+#camera{
+    position: absolute;
+
+}
+
+canvas{
+    position: absolute;
+}
